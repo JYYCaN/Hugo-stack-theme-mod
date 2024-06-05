@@ -3,7 +3,7 @@ title: C++ 中的不同初始化方法
 description: 文章对C++中常见的初始化方法进行了总结
 date: 2024-06-05
 slug: CC++-init
-image: float.jpg
+image: 1.png
 categories:
     - C,C++
 ---
