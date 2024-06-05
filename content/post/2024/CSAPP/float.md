@@ -3,7 +3,7 @@ title: 浮点数
 description: 计算机中对有理数的表示
 date: 2024-06-05
 slug: stack-theme-mod
-image: "float.jpg"
+image: float.jpg
 categories:
     - CSAPP
     - C,C++
@@ -21,7 +21,7 @@ Ref
 
 ## 1、Fractional Binary Numbers 表示
 
-<img src="./assets/image-20240603205555943.png" alt="image-20240603205555943" style="zoom:50%;" />
+<img src="/assets/image-20240603205555943.png" alt="image-20240603205555943" style="zoom:50%;" />
 
 公式：
 
@@ -129,7 +129,7 @@ float F = 15213.0;
 
 基于此，浮点数能够表示的数据能够通过数轴表述如下：
 
-![image-20240604100758691](./assets/image-20240604100758691.png)
+![image-20240604100758691](/assets/image-20240604100758691.png)
 
 ## 3、Example 8比特浮点数：
 
@@ -180,7 +180,7 @@ Sign：1位、Frac：3位、Exp：4位
 
 ==浮点数的数据在0附近的表示精度越低，越大和越小的数据表示的精度越低==
 
-![image-20240531101858778](./assets/image-20240531101858778.png)
+![image-20240531101858778](/assets/image-20240531101858778.png)
 
 
 
