@@ -19,7 +19,7 @@ Ref
 
 
 
-## 1、Fractional Binary Numbers 表示
+## Fractional Binary Numbers 表示
 
 <img src="/assets/image-20240603205555943.png" alt="image-20240603205555943" style="zoom:50%;" />
 
@@ -37,7 +37,7 @@ $\mathrm{value} = \sum_{k=-j}^{i} \times 2^k$
 
 
 
-## 2、浮点数表示
+## 浮点数表示
 
 ![image-20240604093301360](./assets/image-20240604093301360.png)
 
@@ -131,7 +131,7 @@ float F = 15213.0;
 
 ![image-20240604100758691](/assets/image-20240604100758691.png)
 
-## 3、Example 8比特浮点数：
+## Example 8比特浮点数：
 
 Sign：1位、Frac：3位、Exp：4位
 
@@ -184,7 +184,7 @@ Sign：1位、Frac：3位、Exp：4位
 
 
 
-## 4、浮点操作
+## 浮点操作
 
 浮点加法：$x + y = Round(x + y)$
 
@@ -238,7 +238,7 @@ $(-1)^{s1} M1 \ 2^{E1} \times (-1)^{s2} M2 \ 2^{E2}$
 
 
 
-## 5、C 语言中的浮点数
+## C 语言中的浮点数
 
 C语言中提供了两种不同的浮点数
 
