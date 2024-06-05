@@ -6,12 +6,11 @@ slug: stack-theme-mod
 image: float.jpg
 categories:
     - CSAPP
-    - C/C++
+    - C,C++
     - 计算机基础
 ---
 # 浮点数
 
-[toc]
 
 Ref
 
@@ -71,7 +70,6 @@ $\mathrm{value} = (-1)^S \times M \times 2^E$​​
 
 浮点数能表示的所有数据分为 Normalized Value 和 Denormalized Value
 
-> [!IMPORTANT]
 >
 > Normalized Value
 >
@@ -116,7 +114,6 @@ float F = 15213.0;
 
 
 
-> [!IMPORTANT]
 >
 > +Inf 和 -Inf
 >
