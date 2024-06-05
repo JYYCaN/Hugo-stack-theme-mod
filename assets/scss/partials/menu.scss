@@ -163,10 +163,10 @@
         padding: 10px 30px;
 
         &:not(:last-of-type) {
-            margin-bottom: 4px;
+            margin-bottom: 6px;
 
             @include respond(xl) {
-                margin-bottom: 4px;
+                margin-bottom: 6px;
             }
         }
 
