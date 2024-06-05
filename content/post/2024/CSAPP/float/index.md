@@ -2,7 +2,7 @@
 title: 浮点数
 description: 计算机中对有理数的表示
 date: 2024-06-05
-slug: stack-theme-mod
+slug: CSAPP-float
 image: float.jpg
 categories:
     - CSAPP
