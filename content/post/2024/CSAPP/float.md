@@ -259,19 +259,19 @@ float/double --> int
 
 int --> double
 
-double 的小数部分有 52 位，能够直接将 int 转化为 double 没有精度损失
+- double 的小数部分有 52 位，能够直接将 int 转化为 double 没有精度损失
 
 
 
 int --> float
 
-float 的小数部分仅有 23 位，将 int 转化为 float 需要进行舍入，有精度损失
+- float 的小数部分仅有 23 位，将 int 转化为 float 需要进行舍入，有精度损失
 
 
 
 float/double --> int
 
-float/double 的表示范围大于 int，当这种情况发生时，将截断为 int 的最小值
+- float/double 的表示范围大于 int，当这种情况发生时，将截断为 int 的最小值
 
-当 float/double 转化为 int 
+- 当 float/double 转化为 int 
 
